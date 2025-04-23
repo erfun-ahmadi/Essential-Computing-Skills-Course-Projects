@@ -1,0 +1,25 @@
+[Unit]
+Description=System Health Monitoring Service
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /home/erfan/Desktop/system_health_P3.py --cpu 80 --mem 85 --disk 80 --interval 60
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+Environment=PYTHONUNBUFFERED=1
+ExecStartPre=/bin/bash -c 'echo "" > /var/log/system_monitor.log'
+ExecStartPre=/bin/mkdir -p /var/lib/system_monitor
+ExecStartPre=/bin/chmod 777 /var/lib/system_monitor
+Environment="PYTHONUNBUFFERED=1"
+Environment="DISPLAY=:0"
+Environment="XAUTHORITY=/home/erfan/.Xauthority"
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,65 @@
+2025-04-12 17:37:58,856 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:39:38,874 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:39:44,658 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:39:50,571 - WARNING - CPU usage exceeded: 31.2% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:39:56,462 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:02,276 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:08,131 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:14,044 - WARNING - CPU usage exceeded: 33.3% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:19,891 - WARNING - CPU usage exceeded: 33.3% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:25,980 - WARNING - CPU usage exceeded: 57.2% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:31,988 - WARNING - CPU usage exceeded: 42.9% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:37,955 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:43,924 - WARNING - CPU usage exceeded: 30.8% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:49,982 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:40:56,057 - WARNING - CPU usage exceeded: 30.8% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:02,038 - WARNING - CPU usage exceeded: 50.0% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:08,088 - WARNING - CPU usage exceeded: 50.0% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:14,068 - WARNING - CPU usage exceeded: 50.0% > 30.0%
+Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:20,027 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:26,112 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:32,326 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:38,523 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:44,719 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:51,005 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:41:57,040 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:42:03,266 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:42:09,479 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:42:16,176 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 17:42:22,290 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 18:29:55,696 - WARNING - CPU usage exceeded: 37.5% > 30.0%
+2025-04-12 18:29:55,702 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 18:30:01,536 - WARNING - CPU usage exceeded: 31.3% > 30.0%
+2025-04-12 18:30:01,537 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 18:30:07,414 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 18:30:13,239 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:02,479 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:08,356 - WARNING - CPU usage exceeded: 33.4% > 30.0%
+2025-04-12 22:12:08,356 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:14,197 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:20,167 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:26,181 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:32,047 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:37,897 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:43,935 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:49,983 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-12 22:12:56,029 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:22,007 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:27,940 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:33,952 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:39,927 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:45,998 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:51,981 - WARNING - CPU usage exceeded: 30.8% > 30.0%
+2025-04-13 09:56:51,981 - WARNING - Disk usage exceeded: 44.0% > 30.0%
+2025-04-13 09:56:57,917 - WARNING - CPU usage exceeded: 30.8% > 30.0%
+2025-04-13 09:56:57,918 - WARNING - Disk usage exceeded: 44.0% > 30.0%
